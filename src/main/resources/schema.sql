@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS sample {
+    id VERCHAR(50) PRIMARY KEY,
+    str VERCHAR(50)
+    }
